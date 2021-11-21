@@ -1,0 +1,20 @@
+{
+  "name": "ciphering-cli-tool",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fr3ud/nodejs2021q4.git"
+  },
+  "author": "Alexander Pavelko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fr3ud/nodejs2021q4/issues"
+  },
+  "homepage": "https://github.com/Fr3ud/nodejs2021q4#readme"
+}
